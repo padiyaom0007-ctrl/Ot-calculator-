@@ -1,0 +1,1 @@
+WORKER OT CALCULATOR\n\nPhone-friendly PWA. Normal shift 9 AM-6 PM. Includes worker list, attendance, break, late arrival, overtime, history, monthly summary, edit/delete and CSV export. Data is stored locally on the phone/browser.
